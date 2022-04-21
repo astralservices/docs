@@ -86,12 +86,13 @@ $navbar-dark-active-color:          $link-color-dark;
 
 [data-dark-mode] body .navbar,
 [data-dark-mode] body .doks-subnavbar {
-  background-color: rgba(33, 37, 41, 0.95);
+  background-color: $gray-800;
   border-bottom: 1px solid $border-dark;
 }
 
 [data-dark-mode] body.home .navbar {
   border-bottom: 0;
+  background-color: $gray-800;
 }
 
 [data-dark-mode] body .offcanvas-header {
@@ -461,7 +462,7 @@ $navbar-dark-active-color:          $link-color-dark;
 */
 
 [data-dark-mode] body .offcanvas {
-  background-color: $body-bg-dark;
+  background-color: $gray-800;
 }
 
 [data-dark-mode] body .btn-close {
