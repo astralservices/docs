@@ -2,7 +2,7 @@
   Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
   X-Content-Type-Options: nosniff
   X-XSS-Protection: 1; mode=block
-  Content-Security-Policy: default-src 'self'; script-src 'self' https://shy.maatt.ch/ingress/; img-src 'self' data: https://shy.maatt.ch/ingress/; connect-src https://shy.maatt.ch/ingress/; script-src 'sha512-8rz7TU0HqggzpLIiFDnIk2hMGzB67nrZ/eLgxxCrzkDBZouV5ptrwz95p4hRg9TCPgzihEGUx8jQ61rhAucoZg=='; script-src 'sha256-+o72xPO6PKkFAKkHpYqSGBGzh2nKuP/12kahKDe2Ta8='; script-src 'sha256-02Sf0z/ScH9TMdpM+uDGFhgEuWeDfoavvENaUFc15Yc='; script-src 'self' /cdn-cgi/; style-src 'self' https://docs.astralapp.io;
+  Content-Security-Policy: default-src 'self'; script-src 'self' https://shy.maatt.ch/ingress/; img-src 'self' data: https://shy.maatt.ch/ingress/; connect-src https://shy.maatt.ch/ingress/; script-src 'sha512-8rz7TU0HqggzpLIiFDnIk2hMGzB67nrZ/eLgxxCrzkDBZouV5ptrwz95p4hRg9TCPgzihEGUx8jQ61rhAucoZg=='; script-src 'self' /cdn-cgi/; style-src 'self' https://docs.astralapp.io; script-src 'sha256-vOgyKS2vkH4n5TxBJpeh9SgzrE6LVGsAeOAvEST6oCc='; script-src 'sha256-02Sf0z/ScH9TMdpM+uDGFhgEuWeDfoavvENaUFc15Yc='
   X-Frame-Options: SAMEORIGIN
   Referrer-Policy: strict-origin
   Feature-Policy: geolocation 'self'
