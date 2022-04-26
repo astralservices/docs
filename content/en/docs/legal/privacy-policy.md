@@ -13,6 +13,8 @@ weight: 110
 toc: true
 ---
 
+{{< alert icon="‼️" context="danger" text="These aren't finished yet! (Not in effect)" />}}
+
 ## Introduction
 Your privacy is of utmost importance to us. We have created this privacy policy to inform you about the information we collect from you when you use our website, and how we use it.
 
