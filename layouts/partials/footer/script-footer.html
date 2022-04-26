@@ -76,6 +76,7 @@ $mermaid := $mermaid | minify | fingerprint "sha512" -}} {{ if
 {{ end -}} {{ if and (.Site.Params.options.flexSearch) (eq .Section "docs") -}}
 <script src="{{ $index.Permalink }}" crossorigin="anonymous" defer></script>
 {{ end -}} {{ end -}}
+{{ if eq (hugo.Environment) "production" -}}
 <noscript>
   <img
     src="https://shy.maatt.ch/ingress/75c9c0af-e5fc-4e40-9b19-9550a438a81a/pixel.gif"
@@ -85,3 +86,4 @@ $mermaid := $mermaid | minify | fingerprint "sha512" -}} {{ if
   defer
   src="https://shy.maatt.ch/ingress/75c9c0af-e5fc-4e40-9b19-9550a438a81a/script.js"
 ></script>
+{{ end }}
