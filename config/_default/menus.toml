@@ -6,13 +6,7 @@
 
 [[docs]]
   name = "Legal Stuff"
-  weight = 20
-  identifier = "legal"
-  url = "/docs/legal/"
-
-[[main]]
-  name = "Legal"
-  weight = 20
+  weight = 100
   identifier = "legal"
   url = "/docs/legal/"
 
@@ -21,6 +15,12 @@
   url = "/docs/get-started/introduction/"
 # url = "/docs/1.0/get-started/introduction/"
   weight = 10
+
+[[main]]
+  name = "Legal"
+  weight = 20
+  identifier = "legal"
+  url = "/docs/legal/"
 
 [[social]]
   name = "GitHub"
