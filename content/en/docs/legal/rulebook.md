@@ -58,7 +58,7 @@ At Astral, we believe that remaining trustworthy and respectful is a core value 
   - This includes vaccine misinformation, claims of election fraud, or any other forms of misinformation.
 - We do not tolerate racism, sexism, homophobia, transphobia, misogony, or any other forms of hate speech.
   - This one is self-explanitory. We don't stand for it.
-- Do not disparage, tarnish, or otherwise harm, in our opinion, BlueJay and/or the website.
+- Do not disparage, tarnish, or otherwise harm, in our opinion, Astral Services and/or the website.
 
 ## Consequences
 
