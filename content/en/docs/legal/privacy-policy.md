@@ -3,7 +3,7 @@ title: "Privacy Policy"
 description: "The data we collect and how we use it."
 lead: "The data we collect and how we use it."
 date: 2022-04-22T00:00:00+00:00
-lastmod: 2022-04-22T00:00:00+00:00
+lastmod: 2022-05-29T00:00:00+00:00
 draft: false
 images: []
 menu:
@@ -42,6 +42,15 @@ We collect the following information from you and our data providers (Discord vi
 We automatically assign the following on account creation:
 
 - Stripe Customer ID
+
+When you use our services, we use a self-hosted Shynet (analytics) server. It collects the following information:
+
+- **Page URL—** we use this to see how many times a page has been viewed
+- **HTTP referer—** we use this to see how many people are coming from certain websites
+- **Browser—** we use this to see what browsers and browser versions are being used
+- **Operating system—** we use this to see what operating systems are being used
+- **Device type—** we use this to see what kinds of devices are being used (desktop, laptop, mobile)
+- **Visitor country—** we use this to get a general idea of where users are from. This is found using the visitor's IP address, which is only used to find said country and then is discarded. It is never stored in our database or logs.
 
 ## How we use it
 
