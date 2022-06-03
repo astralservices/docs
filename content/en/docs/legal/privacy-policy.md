@@ -95,7 +95,12 @@ Governments or law enforcement may request data from Stripe, Discord, Roblox, Su
 
 We only forfeit information we collect to governments or law enforcement when required to do so by a legal order such as a court order or subpoena.
 
-Because you must use Discord to create an account, you are also under [their privacy policy.](https://discord.com/privacy) Because you must verify your Roblox account, you are also under [their privacy policy.](https://en.help.roblox.com/hc/articles/115004630823) Payments are processed through Stripe, which means that in the event that you pay for our services, you are also under [their privacy policy.](https://stripe.com/privacy) We recommend that you review their privacy policies to undersertand their data polices, as well.
+You may be under the following privacy policies:
+
+- [Discord](https://discord.com/privacy)
+- [Stripe](https://stripe.com/privacy)
+- [Roblox](https://en.help.roblox.com/hc/articles/115004630823)
+- [Last.fm](https://www.last.fm/legal/privacy)
 
 ## What if there's a data breach?
 
@@ -103,9 +108,9 @@ In the event of a data breach, we will notify users within 72 hours of us becomi
 
 ## How long is data stored and how is it protected?
 
-Data you give to us via Discord and Roblox is stored until you delete your data. Transactions through Stripe are kept up to 3 years after you delete your data to comply with financial regulations in the United States. Analytical data collected with Umami are stored indefinetely.
+Data you give to us via Discord and Roblox is stored until you delete your data. Transactions through Stripe are kept up to 3 years after you delete your data to comply with financial regulations in the United States. Analytical data collected with Shynet are stored indefinetely.
 
-All data is encrypted using modern, standardised, and secure methods. Emails sent to and from our servers use DKIM, SPF, and secure mail servers to protect both our prviacy and yours, as well as better validate email authenticity. Our sites use HSTS, only use HTTPS, and have strict CSP policies to prevent malicious scripts from being run. We sign DPAs and other privacy agreements to ensure data is handled strictly for the purpose of providing our services with other companies we work with to protect your data. We undergo occasional third-party audits to ensure your data is protected from numerous individuals, organisations, and/or government authorites.
+All data is encrypted using modern, standardised, and secure methods. Our sites use HTTPS and have strict CSP policies to prevent malicious scripts from being run. We sign DPAs and other privacy agreements to ensure data is handled strictly for the purpose of providing our services with other companies we work with to protect your data. We undergo occasional third-party audits to ensure your data is protected from numerous individuals, organisations, and/or government authorites.
 
 We take appropriate measures, including, but not limited to, hashing and salting to protect the data we store, as well as only use secure methods to configure our servers to prevent data breaches. We do our best to create an environment as secure as possible to protect your data. However, no system is perfect, and we cannot be held responsible if data goes missing because of a misconfiguration, poor setup, or conditions out of our control, such as hijaking via physical access. We encrypt our data with keys that we possess.
 
@@ -136,4 +141,4 @@ We keep the following data after you delete your account:
 
 ## Contact
 
-You can write to jack [at] astralapp.io to get help as swiftly as possible on amending and fixing this document, getting answers to questions regarding this policy, and for contacting the data controller (if within the European Economic Area (EEA) or under a jurisdiction of the General Data Protection Regulation (GDPR).
+You can write to jack [at] astralapp.io to get help as swiftly as possible on amending and fixing this document, getting answers to questions regarding this policy, and for contacting the data controller (if under a jurisdiction of the General Data Protection Regulation (GDPR) act).
