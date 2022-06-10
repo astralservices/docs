@@ -95,10 +95,13 @@ Governments or law enforcement may request data from Stripe, Discord, Roblox, Su
 
 We only forfeit information we collect to governments or law enforcement when required to do so by a legal order such as a court order or subpoena.
 
-You may be under the following privacy policies:
+You are under the following privacy policies:
 
 - [Discord](https://discord.com/privacy)
 - [Stripe](https://stripe.com/privacy)
+
+You may be under the following privacy policies:
+
 - [Roblox](https://en.help.roblox.com/hc/articles/115004630823)
 - [Last.fm](https://www.last.fm/legal/privacy)
 
