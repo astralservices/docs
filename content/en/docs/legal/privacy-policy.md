@@ -3,7 +3,7 @@ title: "Privacy Policy"
 description: "The data we collect and how we use it."
 lead: "The data we collect and how we use it."
 date: 2022-04-22T00:00:00+00:00
-lastmod: 2022-05-29T00:00:00+00:00
+lastmod: 2022-06-09T00:00:00+00:00
 draft: false
 images: []
 menu:
@@ -12,8 +12,6 @@ menu:
 weight: 110
 toc: true
 ---
-
-{{< alert icon="‼️" context="danger" text="These aren't finished yet! (Not in effect)" />}}
 
 ## Introduction
 
